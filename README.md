@@ -23,14 +23,20 @@ dengan hp aku yang satunya dengan posisi saling berpunggunan seperti foto dibawa
 ```
 Saat mobil melintasi polisi tidur, tergeser lah hp aku dan akibatnya proses charging 
 berhenti. Nah ini menimbulkan kesebalan yang sangat meluap-luap 🤯. Kemudian muncul lah
-ide 
+ide "Power Case" ini. Ya biar hp nya enggak ke geser lagi.
 ```
-## Contributing
+[Foto]
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+## Proses Pembuatan ⚙️
+```
+Pertama aku bingung, gimana ya cara buatnya ? Kemudian bukalah youtube 
+dan search "Cara mem-
+buat 3D Model". Setelah menonton video di youtube, akhirnya aku menemukan software 3D
+yang cocok buat pembuatan 3D Print ini, yaitu Autodesk Fusion 360.
 
-Please make sure to update tests as appropriate.
+```
+
+
 
 ## License
 
