@@ -89,8 +89,11 @@ Power Case !
 
 ## Apakah bisa digunakan?
 Tentu bisa dong!
-<img width="880" alt="Screenshot 2024-08-24 at 23 47 05" src="https://github.com/user-attachments/assets/61a96c76-8253-46c7-aa13-028a30dbff17">         |  <img width="900" alt="Screenshot 2024-08-24 at 23 47 05" src="https://github.com/user-attachments/assets/61a96c76-8253-46c7-aa13-028a30dbff17">
-:-------------------------:|:-------------------------:
+<p align="center">
+<img width="400" alt="Screenshot 2024-08-24 at 23 47 05" src="https://github.com/user-attachments/assets/c1b789a7-d0b9-4a15-af57-10f77a01f72f">    
+ </p>
+
 ## License
+
 
 [MIT](https://choosealicense.com/licenses/mit/)
